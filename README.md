@@ -5,9 +5,9 @@
 Bikeshare Project
 
 ### Description
-Investigate Bikeshare data
+Investigate Bikeshare data in Newyork, Chicago and Washington
 ### Files used
 Include the files used
 
 ### Credits
-Udacity course material & Stackover flow 
+Udacity course material & Stackover flow
