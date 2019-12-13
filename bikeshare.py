@@ -30,10 +30,10 @@ def get_filters():
             if (city.replace(' ','') == 'washington') or (city.replace(' ','') == 'newyork') or (city.replace(' ','') == 'chicago'):
                 if (city.replace(' ','') in CITY_DATA):
                     break
-                else:
-                    print('\nWrong input, try again! \n')
-                    continue
-            
+            else:
+                print('\nWrong input, try again! \n')
+                continue
+
         except (ValueError, KeyboardInterrupt) as e:
             print('\nInvalid Input, try again!! \n')
             continue
